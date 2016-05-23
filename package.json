@@ -1,15 +1,12 @@
 {
-  "name": "java-generator",
+  "name": "java-generator-plus",
   "main": "./lib/java-generator",
-  "version": "2.1.1",
+  "version": "2.6.0",
   "private": true,
   "description": "Generates getter, setter, toString, constructor, and builder methods for java classes.",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/delebota/java-generator.git"
-  },
+  "repository": "https://github.com/concon121/java-generator-plus",
   "bugs": {
-    "url": "https://github.com/delebota/java-generator/issues"
+    "url": "https://github.com/concon121/java-generator-plus/issues"
   },
   "license": "Apache 2.0",
   "author": {
@@ -43,9 +40,9 @@
     "automatic",
     "builder"
   ],
-  "readme": "# Java Generator\n\nAn Atom.io package created to generate getter, setter, toString, constructor, and builder methods for java classes.\n\n## Keyboard Shortcuts\n\n```text\nctrl-alt-g: Generate Getters and Setters\nctrl-alt-c: Generate Constructor\nctrl-alt-t: Generate toString Method\nctrl-alt-b: Generate Builder Method\n```\n",
+  "readme": "# Java Generator Plus\n\nAn Atom.io package created to generate getter, setter, toString, constructor, and builder methods for java classes.\n\n## Keyboard Shortcuts\n\n```text\nctrl-alt-g: Generate Getters and Setters\nctrl-alt-c: Generate Constructor\nctrl-alt-t: Generate toString Method\nctrl-alt-b: Generate Builder Method\n```\n\nThis project is a fork of the original java-generator, which you can find [here](https://github.com/delebota/java-generator)",
   "readmeFilename": "README.md",
-  "homepage": "https://github.com/delebota/java-generator#readme",
+  "homepage": "https://github.com/concon121/java-generator-plus/#readme",
   "_id": "java-generator@2.1.0",
   "_shasum": "20b7a8674e9e618753d8956b9c2831e6473793e2",
   "_resolved": "file:..\\d-1151030-8396-1w3pkmq\\package.tgz",
